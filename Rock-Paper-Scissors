@@ -11,7 +11,7 @@ time.sleep(1)
 print(Fore.GREEN+list[3])
 time.sleep(2)
 #Player1 input
-x=input(Fore.BLUE+'Player1: ')
+x=input(Fore.BLUE+'Player1: ') 
 while(not(x in ["rock","paper","scissors"])):
         x=input('Player1: ')
 print('\n\n\n\n\n\n\n\n')
