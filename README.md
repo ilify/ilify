@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Ilies! 🚀</h1>
+<h1 align="start">👋 Hey there, I'm Ilies! 🚀</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
