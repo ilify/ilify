@@ -7,8 +7,8 @@
 ---
 
 ## 🔥 About Me  
-- 🎨 Master of **Svelte, CSS, JS, HTML, Python, Godot, Java, Node.js, Bun** & more  
-- 🏗️ Built my own **database from scratch** and a **frontend framework**  
+- 🎨 Master of **Solid.js , Svelte, CSS, JS, HTML, Python, Godot, Java, Node.js, Bun** & more  
+- 🏗️ Built my own **database from scratch (Pylite)** and a **frontend framework (Vanilla.js)**  
 - 🎮 Developed multiple **games** and won **local game jams**  
 - 🏢 Worked professionally in a **real estate startup**  
 - 🌟 Love building innovative **side projects** and exploring new technologies  
@@ -18,7 +18,7 @@
 ## 💻 Tech Stack  
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=ts,html,css,js,svelte,python,java,c,cpp,cs,kotlin,nodejs,bun,sqlite,mongodb,postgresql,godot,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,html,css,js,svelte,solidjs,python,java,c,cpp,cs,kotlin,nodejs,bun,sqlite,mongodb,postgresql,godot,git,linux" alt="Tech Stack" />
 </p>
 
 ---
