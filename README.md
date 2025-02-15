@@ -6,26 +6,26 @@
 
 ---
 
-## 🌟 About Me  
+# 🌟 About Me  
 
-🎨 **Master of:**  
+## 🎨 **Master of:**  
 💡 **Vue.js**, **Solid.js**, **Svelte**, **CSS**, **JS**, **HTML**, **Python**, **Godot**, **Java**, **Node.js**, **Bun**, & more!  
 
 🏢 **Co-founder of [Tiptalk](#)** - Revolutionizing the way people interact with expert insights!  
 
-🏗️ **Built:**  
+## 🏗️ **Built:**  
 - 🛢 **Pylite** - A **custom database** from scratch  
 - ⚡ **Vanilla.js** - A **lightweight frontend framework**  
 - 🎮 **Multiple games** - Won **local game jams**  
 
-🏆 **Achievements & Experience:**  
+## 🏆 **Achievements & Experience:**  
 - 🚀 **Startup Founder** - Leading **Tiptalk** to change the game  
 - 💼 Worked professionally in a **real estate startup**  
 - 🔥 Passionate about **building innovative projects** & **exploring new technologies**  
 
 ---
 
-## 🚀 Projects & Achievements  
+# 🚀 Projects & Achievements  
 
 🔹 **Tiptalk** - Co-founded a **cutting-edge startup** revolutionizing expert interaction  
 🔹 **Custom Database** - Created a **fully-functional database** from scratch  
@@ -35,7 +35,7 @@
 
 ---
 
-## 🏆 Notable Recognitions  
+# 🏆 Notable Recognitions  
 
 🏅 **Winner of multiple game jams**  
 📜 **Open-source contributor** - Making the web **faster, smarter & more accessible**  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+# 🛠 Tech Stack  
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,html,css,js,svelte,solidjs,python,java,c,cpp,cs,kotlin,nodejs,bun,sqlite,mongodb,postgresql,godot,git,linux,vue,nuxt,express,threejs,bootstrap,tailwind,md,bash,react,arduino" alt="Tech Stack">
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=iliesw&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats">
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+# 🌐 Connect With Me  
 
 <p>
   <a href="https://github.com/ilify"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
