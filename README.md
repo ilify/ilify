@@ -18,7 +18,7 @@
 ## 💻 Tech Stack  
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=ts,html,css,js,svelte,solidjs,python,java,c,cpp,cs,kotlin,nodejs,bun,sqlite,mongodb,postgresql,godot,git,linux,vue,nuxt" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,html,css,js,svelte,solidjs,python,java,c,cpp,cs,kotlin,nodejs,bun,sqlite,mongodb,postgresql,godot,git,linux,vue,nuxt,express,threejs,bootstrap,tailwind,md,bash,react,arduino" alt="Tech Stack" />
 </p>
 
 ---
