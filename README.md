@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats  
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilify&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilify&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliesw&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliesw&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
 ---
